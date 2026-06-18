@@ -4,17 +4,15 @@
 
 # JBar
 
-**即刻（okjike）关注流的 macOS 菜单栏通知应用**
-
-定时刷新关注流，有新动态时以"刘海风格"通知从屏幕顶部弹出，点击直达网页版。
+**即刻（okjike）关注流 macOS 菜单栏通知应用**
 
 </div>
 
 ## 演示
 
-<video src="https://github.com/joway/jbar/raw/main/demo.mp4" controls muted width="100%"></video>
+![JBar 演示](assets/demo.gif)
 
-> 如果上方视频未自动加载，点这里观看 👉 [demo.mp4](https://github.com/joway/jbar/raw/main/demo.mp4)
+> 高清带交互版（完整画质）👉 [demo.mp4](https://github.com/joway/jbar/raw/main/demo.mp4)
 
 ## 功能
 
